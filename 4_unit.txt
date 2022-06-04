@@ -1,4 +1,4 @@
- 159.63-1001-7 
+ 159.63-1001-7 **********************
                                8 ALDEN PL                                                               ACCT: 000020  
     159.63-1001-7         GD   411 APARTMENT                               COUNTY TAXABLE                     26,879  
     8 ALDEN PL LLC               MT VERNONCENTRAL                    9,879 CITY TAXABLE                       26,879  
@@ -19,7 +19,7 @@
                                DEED BK  60055  PG  3227                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  489,590                                                                                   
-     164.60-1075-3 
+     164.60-1075-3 **********************
                                146 HIGH ST ,N                                                           ACCT: 012250  
     164.60-1075-3         SU   411 APARTMENT                               COUNTY TAXABLE                     16,800  
     ENGLISH, ALEXANDER           MT VERNONCENTRAL                    4,000 CITY TAXABLE                       16,800  
@@ -31,7 +31,7 @@
                                BANK 7                                                                                                  
                                FULL MKT VAL  763,636                                                                                   
  
-     164.68-1072-9 
+     164.68-1072-9 **********************
                                18 HIGH ST ,N                                                            ACCT: 011380  
     164.68-1072-9         ZA   411 APARTMENT                               COUNTY TAXABLE                     11,000  
     NJP PROPERTY HOLDINGS LLC    MT VERNONCENTRAL                    2,700 CITY TAXABLE                       11,000  
@@ -62,7 +62,7 @@
                                DEED BK  59255  PG  3542                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  727,272                                                                                   
-     164.76-1063-7 
+     164.76-1063-7 **********************
                                18 TERRACE AV ,S                                                         ACCT: 009050  
     164.76-1063-7         XC   411 APARTMENT                               COUNTY TAXABLE                     11,200  
     SMALL, LOVERN                MT VERNONCENTRAL                    3,000 CITY TAXABLE                       11,200  
@@ -126,7 +126,7 @@
                                DEED BK  58155  PG  3201                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  568,181                                                                                   
-     165.30-1031-1 
+     165.30-1031-1 **********************
                                472 GRAMATAN AV                                                          ACCT: 004130  
     165.30-1031-1         LQ   411 APARTMENT                               41122 WAR VET               937
     472 GRAMATAN OWNERS CORP     MT VERNONCENTRAL                  130,000 41123 WAR VET                          937
@@ -139,7 +139,7 @@
                                                                            CS002 BRONX RIV. SEWE             280,000 TO C
                                                                            RF001 COUNTY REFUSE               280,000 TO  
  
-     165.30-1036-1 
+     165.30-1036-1 **********************
                                485 GRAMATAN AV                                                          ACCT: 004250  
     165.30-1036-1         OS   411 APARTMENT                               COUNTY TAXABLE                    185,000  
     CEDAR MANOR,L.L.C.           MT VERNONCENTRAL                   47,400 CITY TAXABLE                      185,000  
@@ -159,7 +159,7 @@
                                EAST  205530  NRTH  232110                                                                              
                                DEED BK  11233  PG  255                                                                                 
                                FULL MKT VAL  686,363                                                                                   
-     165.38-1035-8 
+     165.38-1035-8 **********************
                                445 GRAMATAN AV                                                          ACCT: 004210  
     165.38-1035-8         WX   411 APARTMENT                               41834 STAR-ENHC                                13,981
     WESTCH.GARDENS OWNERS        MT VERNONCENTRAL                  132,800 41854 STAR-RES                                114,553
@@ -179,7 +179,7 @@
                                EAST  205310  NRTH  231730                                                                              
                                FULL MKT VAL  568,181                                                                                   
  
-     165.45-1097-8 
+     165.45-1097-8 **********************
                                442 HIGH ST ,N                                                           ACCT: 018220  
     165.45-1097-8         AQ   411 APARTMENT                               COUNTY TAXABLE                     11,200  
     MARASCO, GIACINTO            MT VERNONCENTRAL                    1,500 CITY TAXABLE                       11,200  
@@ -189,7 +189,7 @@
                                EAST  205500  NRTH  231890                                                                              
                                FULL MKT VAL  509,090                                                                                   
  
-     165.45-1100-9 
+     165.45-1100-9 **********************
                                16 ROCHELLE TERR                                                         ACCT: 018780  
     165.45-1100-9         SK   411 APARTMENT                               COUNTY TAXABLE                     77,000  
     PEMATA MGMT. LLC             MT VERNONCENTRAL                   23,300 CITY TAXABLE                       77,000  
@@ -211,7 +211,7 @@
                                DEED BK  41050  PG  0314                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  1,363,636                                                                                 
-     165.54-1132-8 
+     165.54-1132-8 **********************
                                175 CRARY AV                                                             ACCT: 024950  
     165.54-1132-8         UP   411 APARTMENT                               COUNTY TAXABLE                     85,000  
     CRARY AVE LLC                MT VERNONCENTRAL                   15,000 CITY TAXABLE                       85,000  
@@ -221,7 +221,7 @@
                                EAST  206000  NRTH  231580                                                                              
                                DEED BK  40088  PG  0340                                                                                
                                FULL MKT VAL  3,863,636                                                                                 
-     165.54-1132-9 
+     165.54-1132-9 **********************
                                173 CRARY AV                                                             ACCT: 024960  
     165.54-1132-9         VI   411 APARTMENT                               COUNTY TAXABLE                     11,700  
     BX PROPERTY HOLDINGS LLC     MT VERNONCENTRAL                    4,900 CITY TAXABLE                       11,700  
@@ -233,7 +233,7 @@
                                BANK 7                                                                                                  
                                FULL MKT VAL  531,818                                                                                   
  
-     165.55-1151-6 
+     165.55-1151-6 **********************
                                162 RICH AV                                                              ACCT: 026660  
     165.55-1151-6         UD   411 APARTMENT                               COUNTY TAXABLE                     11,000  
     NUNES, JAMIE                 MT VERNONCENTRAL                    3,300 CITY TAXABLE                       11,000  
@@ -273,7 +273,7 @@
     MT.VERNON NY 10550         ACREAGE  0.11                               RF001 COUNTY REFUSE                14,100 TO  
                                EAST  205220  NRTH  231280                                                                              
                                FULL MKT VAL  640,909                                                                                   
-     165.61-1077-1 
+     165.61-1077-1 **********************
                                193 LINCOLN AV ,W                                                        ACCT: 012890  
     165.61-1077-1         TJ   411 APARTMENT                               COUNTY TAXABLE                     12,000  
     ZAMUDIO, FAURICIO            MT VERNONCENTRAL                    3,300 CITY TAXABLE                       12,000  
@@ -284,7 +284,7 @@
                                DEED BK  41129  PG  0030                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  545,454                                                                                   
-     165.61-1077-5 
+     165.61-1077-5 **********************
                                50 TENTH AV ,N                                                           ACCT: 012930  
     165.61-1077-5         WH   411 APARTMENT                               COUNTY TAXABLE                     13,500  
     LOUDEN, JOHN                 MT VERNONCENTRAL                    3,000 CITY TAXABLE                       13,500  
@@ -295,7 +295,7 @@
                                DEED BK  60031  PG  3067                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  613,636                                                                                   
-     165.61-1084-6 
+     165.61-1084-6 **********************
                                32 SEVENTH AV ,N                                                         ACCT: 014060  
     165.61-1084-6         VT   411 APARTMENT                               COUNTY TAXABLE                     11,400  
     BUTLER, THOMAS D.            MT VERNONCENTRAL                    3,000 CITY TAXABLE                       11,400  
@@ -329,7 +329,7 @@
                                DEED BK  51130  PG  3020                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  454,545                                                                                   
-     165.82-4049-3 
+     165.82-4049-3 **********************
                                110 VERNON AV                                                            ACCT: 103690  
     165.82-4049-3         XD   411 APARTMENT                               COUNTY TAXABLE                     17,000  
     SIMMONDS, NORMAN             MT VERNONCENTRAL                    5,500 CITY TAXABLE                       17,000  
@@ -350,7 +350,7 @@
                                DEED BK  60160  PG  3466                                                                                
                                BANK 7                                                                                                  
                                FULL MKT VAL  681,818                                                                                   
-     169.21-3019-6 
+     169.21-3019-6 **********************
                                211 THIRTEENTH AV ,S                                                     ACCT: 060550  
     169.21-3019-6         VM   411 APARTMENT                               COUNTY TAXABLE                          0  
     R & G EQUITIES, LTD          MT VERNONCENTRAL                        0 CITY TAXABLE                            0  

@@ -18,7 +18,6 @@ def vernon_ny_parser(pdf_file, units):
                     "**********************************************************************************************")
 
                 for prop in property_block[2:-1]:
-                    prop = prop.replace("**********************", "")
 
                     if f"{units} UNITS" in prop:
                         txt_file.write(prop)
