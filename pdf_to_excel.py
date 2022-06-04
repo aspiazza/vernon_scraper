@@ -3,6 +3,7 @@ import re
 from icecream import ic
 
 
+# Work in progress
 def vernon_ny_parser(pdf_file):
     """
     pdf_file: Specify PDF path
@@ -22,9 +23,8 @@ def vernon_ny_parser(pdf_file):
                 prop = prop.replace("**********************", "")
                 prop = re.split(r'\s{3,}', prop)
 
-                ic(len(prop[:-1]))
-                for i in prop[:-1]:
-                    ic(i)
+                for i in prop:
+                    print(i)
                 exit()
 
             pdf_count = pdf_count + 1

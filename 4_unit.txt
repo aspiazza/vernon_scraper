@@ -1,0 +1,406 @@
+ 159.63-1001-7 
+                               8 ALDEN PL                                                               ACCT: 000020  
+    159.63-1001-7         GD   411 APARTMENT                               COUNTY TAXABLE                     26,879  
+    8 ALDEN PL LLC               MT VERNONCENTRAL                    9,879 CITY TAXABLE                       26,879  
+    5 RENAISSANCE SQ           from lot 2                                  SCHOOL TAXABLE                     26,879  
+    WHITE PLAINS NY 10601      4 UNITS                              26,879 CS002 BRONX RIV. SEWE              26,879 TO C
+                               ACREAGE  0.26                               RF001 COUNTY REFUSE                26,879 TO  
+                               EAST  206170  NRTH  233510                                                                              
+                               DEED BK  60316  PG  3178                                                                                
+                               FULL MKT VAL  1,221,772                                                                                 
+     164.60-1074-34 *********************
+                               42 ELM ST                                                                ACCT: 012210  
+    164.60-1074-34        UZ   411 APARTMENT                               COUNTY TAXABLE                     10,771  
+    JOY, JOHN                    MT VERNONCENTRAL                    1,600 CITY TAXABLE                       10,771  
+    220 ENDICOTT AVE           34                                          SCHOOL TAXABLE                     10,771  
+    ELMSFORD NY 10523          4 UNITS                              10,771 CS002 BRONX RIV. SEWE              10,771 TO C
+                               ACREAGE  0.07                               RF001 COUNTY REFUSE                10,771 TO  
+                               EAST  205110  NRTH  231370                                                                              
+                               DEED BK  60055  PG  3227                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  489,590                                                                                   
+     164.60-1075-3 
+                               146 HIGH ST ,N                                                           ACCT: 012250  
+    164.60-1075-3         SU   411 APARTMENT                               COUNTY TAXABLE                     16,800  
+    ENGLISH, ALEXANDER           MT VERNONCENTRAL                    4,000 CITY TAXABLE                       16,800  
+    PO BOX 2296                3                                           SCHOOL TAXABLE                     16,800  
+    MOUNT VERNON NY 10551      4 UNITS                              16,800 CS002 BRONX RIV. SEWE              16,800 TO C
+                               ACREAGE  0.08                               RF001 COUNTY REFUSE                16,800 TO  
+                               EAST  205180  NRTH  231320                                                                              
+                               DEED BK  45146  PG  0075                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  763,636                                                                                   
+ 
+     164.68-1072-9 
+                               18 HIGH ST ,N                                                            ACCT: 011380  
+    164.68-1072-9         ZA   411 APARTMENT                               COUNTY TAXABLE                     11,000  
+    NJP PROPERTY HOLDINGS LLC    MT VERNONCENTRAL                    2,700 CITY TAXABLE                       11,000  
+    504 S 3RD AVE              9                                           SCHOOL TAXABLE                     11,000  
+    MOUNT VERNON NY 10550      4 UNITS                              11,000 CS002 BRONX RIV. SEWE              11,000 TO C
+                               ACREAGE  0.10                               RF001 COUNTY REFUSE                11,000 TO  
+                               EAST  205020  NRTH  231050                                                                              
+                               DEED BK  53298  PG  3247                                                                                
+                               FULL MKT VAL  499,999                                                                                   
+     164.68-1073-15 *********************
+                               18 TERRACE AV ,N                                                         ACCT: 011730  
+    164.68-1073-15        XK   411 APARTMENT                               COUNTY TAXABLE                     16,200  
+    KHALIQ, ABDUL                MT VERNONCENTRAL                    3,000 CITY TAXABLE                       16,200  
+    ALEEM, NAZIA               15                                          SCHOOL TAXABLE                     16,200  
+    11 HUNTER DRIVE            4 UNITS                              16,200 CS002 BRONX RIV. SEWE              16,200 TO C
+    EASTCHESTER NY 10709       ACREAGE  0.12                               RF001 COUNTY REFUSE                16,200 TO  
+                               EAST  204950  NRTH  231100                                                                              
+                               DEED BK  51200  PG  3551                                                                                
+                               FULL MKT VAL  736,363                                                                                   
+     164.68-1075-24 *********************
+                               119 TERRACE AV ,N                                                        ACCT: 012450  
+    164.68-1075-24        YP   411 APARTMENT                               COUNTY TAXABLE                     16,000  
+    DAIR REALTY LLC              MT VERNONCENTRAL                    2,400 CITY TAXABLE                       16,000  
+    C/O NAIM BAJRAKTARI ESQ    24                                          SCHOOL TAXABLE                     16,000  
+    617 E 188TH ST             4 UNITS                              16,000 CS002 BRONX RIV. SEWE              16,000 TO C
+    BRONX NY 10458             ACREAGE  0.09                               RF001 COUNTY REFUSE                16,000 TO  
+                               EAST  205100  NRTH  231240                                                                              
+                               DEED BK  59255  PG  3542                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  727,272                                                                                   
+     164.76-1063-7 
+                               18 TERRACE AV ,S                                                         ACCT: 009050  
+    164.76-1063-7         XC   411 APARTMENT                               COUNTY TAXABLE                     11,200  
+    SMALL, LOVERN                MT VERNONCENTRAL                    3,000 CITY TAXABLE                       11,200  
+    DAVIS, RALPH               7                                           SCHOOL TAXABLE                     11,200  
+    18 S. TERRACE AVE          4 UNITS                              11,200 CS002 BRONX RIV. SEWE              11,200 TO C
+    MOUNT VERNON NY 10550      ACREAGE  0.12                               RF001 COUNTY REFUSE                11,200 TO  
+                               EAST  204870  NRTH  230970                                                                              
+                               DEED BK  48206  PG  0411                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  509,090                                                                                   
+     164.76-1064-20 *********************
+                               55 TERRACE AV ,S                                                         ACCT: 009440  
+    164.76-1064-20        TZ   411 APARTMENT                               COUNTY TAXABLE                     11,100  
+    55-57 S. TERRACE             MT VERNONCENTRAL                    2,100 CITY TAXABLE                       11,100  
+    AVENUE, LLC                20                                          SCHOOL TAXABLE                     11,100  
+    C/O NICHOLAS PALMIERI      4 UNITS                              11,100 CS002 BRONX RIV. SEWE              11,100 TO C
+    510 S. THIRD AVE           ACREAGE  0.08                               RF001 COUNTY REFUSE                11,100 TO  
+    MOUNT VERNON NY 10550      EAST  204840  NRTH  230820                                                                              
+                               DEED BK  49363  PG  3196                                                                                
+                               FULL MKT VAL  504,545                                                                                   
+     164.76-1064-24 *********************
+                               45 TERRACE AV ,S                                                         ACCT: 009480  
+    164.76-1064-24        WX   411 APARTMENT                               COUNTY TAXABLE                     11,000  
+    MARMOLEJOS, VICTOR           MT VERNONCENTRAL                    3,000 CITY TAXABLE                       11,000  
+    45 S. TERRACE AV           24                                          SCHOOL TAXABLE                     11,000  
+    MOUNT VERNON NY 10550      4 UNITS                              11,000 CS002 BRONX RIV. SEWE              11,000 TO C
+                               ACREAGE  0.11                               RF001 COUNTY REFUSE                11,000 TO  
+                               EAST  204850  NRTH  230850                                                                              
+                               DEED BK  46038  PG  0656                                                                                
+                               BANK 3                                                                                                  
+                               FULL MKT VAL  499,999                                                                                   
+     164.76-1065-14 *********************
+                               24 BLEEKER ST ,S                                                         ACCT: 009780  
+    164.76-1065-14        WV   411 APARTMENT                               COUNTY TAXABLE                     12,000  
+    BONAPARTE, GREG              MT VERNONCENTRAL                    1,700 CITY TAXABLE                       12,000  
+    SAUNDERS, ADRIANE          14                                          SCHOOL TAXABLE                     12,000  
+    24 S. BLEEKER AVE          4 UNITS                              12,000 CS002 BRONX RIV. SEWE              12,000 TO C
+    MOUNT VERNON NY 10550      ACREAGE  0.07                               RF001 COUNTY REFUSE                12,000 TO  
+                               EAST  205000  NRTH  230860                                                                              
+                               DEED BK  48070  PG  0490                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  545,454                                                                                   
+     164.76-1066-31 *********************
+                               22 BOND ST ,S                                                            ACCT: 010330  
+    164.76-1066-31        WQ   411 APARTMENT                               COUNTY TAXABLE                     12,500  
+    VALENTIN, JOSE & RAMONA      MT VERNONCENTRAL                    3,000 CITY TAXABLE                       12,500  
+    11 HOWARD ST               31                                          SCHOOL TAXABLE                     12,500  
+    MOUNT VERNON NY 10550      4 UNITS                              12,500 CS002 BRONX RIV. SEWE              12,500 TO C
+                               ACREAGE  0.12                               RF001 COUNTY REFUSE                12,500 TO  
+                               EAST  205070  NRTH  230820                                                                              
+                               DEED BK  40203  PG  0428                                                                                
+                               FULL MKT VAL  568,181                                                                                   
+     164.76-1070-17 *********************
+                               10 BOND ST ,N                                                            ACCT: 010980  
+    164.76-1070-17        WN   411 APARTMENT                               COUNTY TAXABLE                     12,500  
+    GOLDKLANG, YITZCHOK          MT VERNONCENTRAL                    1,800 CITY TAXABLE                       12,500  
+    48 TRUMAN AVE              17                                          SCHOOL TAXABLE                     12,500  
+    SPRING VALLEY NY 10977     4 UNITS                              12,500 CS002 BRONX RIV. SEWE              12,500 TO C
+                               ACREAGE  0.06                               RF001 COUNTY REFUSE                12,500 TO  
+                               EAST  205140  NRTH  230940                                                                              
+                               DEED BK  58155  PG  3201                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  568,181                                                                                   
+     165.30-1031-1 
+                               472 GRAMATAN AV                                                          ACCT: 004130  
+    165.30-1031-1         LQ   411 APARTMENT                               41122 WAR VET               937
+    472 GRAMATAN OWNERS CORP     MT VERNONCENTRAL                  130,000 41123 WAR VET                          937
+    C/O THE FERRARA  GROUP     1                                           41834 STAR-ENHC                                16,608
+    50 PLAINFIELD AVE          164 UNITS                           280,000 41854 STAR-RES                                 90,013
+    BEDFORD HILLS NY 10507     ACREAGE  2.93                               41935 PHYS DISABLED         710                   710
+                               EAST  205800  NRTH  232290                  COUNTY TAXABLE                    278,353  
+                               FULL MKT VAL  12,727,272                    CITY TAXABLE                      279,063  
+                                                                           SCHOOL TAXABLE                    172,669  
+                                                                           CS002 BRONX RIV. SEWE             280,000 TO C
+                                                                           RF001 COUNTY REFUSE               280,000 TO  
+ 
+     165.30-1036-1 
+                               485 GRAMATAN AV                                                          ACCT: 004250  
+    165.30-1036-1         OS   411 APARTMENT                               COUNTY TAXABLE                    185,000  
+    CEDAR MANOR,L.L.C.           MT VERNONCENTRAL                   47,400 CITY TAXABLE                      185,000  
+    C/O CEDAR MANOR, LLC       1,2, 8                                      SCHOOL TAXABLE                    185,000  
+    PO BOX 188                 84 UNITS                            185,000 CS002 BRONX RIV. SEWE             185,000 TO C
+    MOUNT VERNON NY 10552      ACREAGE  0.99                               RF001 COUNTY REFUSE               185,000 TO  
+                               EAST  205890  NRTH  232280                                                                              
+                               DEED BK  11434  PG  347                                                                                 
+                               FULL MKT VAL  8,409,090                                                                                 
+     165.37-1050-11 *********************
+                               534 TERRACE AV ,N                                                        ACCT: 007320  
+    165.37-1050-11        QC   411 APARTMENT                               COUNTY TAXABLE                     15,100  
+    GELBARD, ARTHUR & DALE       MT VERNONCENTRAL                    3,800 CITY TAXABLE                       15,100  
+    C/O: FLEET REALTY          11                                          SCHOOL TAXABLE                     15,100  
+    P.O. BOX 203 H.            4 UNITS                              15,100 CS002 BRONX RIV. SEWE              15,100 TO C
+    SCARDALE NY 10583          ACREAGE  0.11                               RF001 COUNTY REFUSE                15,100 TO  
+                               EAST  205530  NRTH  232110                                                                              
+                               DEED BK  11233  PG  255                                                                                 
+                               FULL MKT VAL  686,363                                                                                   
+     165.38-1035-8 
+                               445 GRAMATAN AV                                                          ACCT: 004210  
+    165.38-1035-8         WX   411 APARTMENT                               41834 STAR-ENHC                                13,981
+    WESTCH.GARDENS OWNERS        MT VERNONCENTRAL                  132,800 41854 STAR-RES                                114,553
+    C\O:ROBERT ORLOFSKY RLTY.  8,11                                        COUNTY TAXABLE                    241,250  
+    7 BRYANT CRESCENT-STE 1C   114 UNITS                           241,250 CITY TAXABLE                      241,250  
+    WHITE PLAINS NY 10605      ACREAGE  3.02                               SCHOOL TAXABLE                    112,716  
+                               EAST  205890  NRTH  232150                  CS002 BRONX RIV. SEWE             241,250 TO C
+                               BANK 7                                      RF001 COUNTY REFUSE               241,250 TO  
+                               FULL MKT VAL  10,965,909                                                                                
+     165.45-1092-32 *********************
+                               339 LOCUST ST                                                            ACCT: 016580  
+    165.45-1092-32        VG   411 APARTMENT                               COUNTY TAXABLE                     12,500  
+    SALA, CARMINE                MT VERNONCENTRAL                    2,500 CITY TAXABLE                       12,500  
+    33 GLENRIDGE RD            32                                          SCHOOL TAXABLE                     12,500  
+    GLENVILLE CT 06831         4 UNITS                              12,500 CS002 BRONX RIV. SEWE              12,500 TO C
+                               ACREAGE  0.11                               RF001 COUNTY REFUSE                12,500 TO  
+                               EAST  205310  NRTH  231730                                                                              
+                               FULL MKT VAL  568,181                                                                                   
+ 
+     165.45-1097-8 
+                               442 HIGH ST ,N                                                           ACCT: 018220  
+    165.45-1097-8         AQ   411 APARTMENT                               COUNTY TAXABLE                     11,200  
+    MARASCO, GIACINTO            MT VERNONCENTRAL                    1,500 CITY TAXABLE                       11,200  
+    442 N HIGH ST              8                                           SCHOOL TAXABLE                     11,200  
+    MOUNT VERNON NY 10552      4 UNITS                              11,200 CS002 BRONX RIV. SEWE              11,200 TO C
+                               ACREAGE  0.06                               RF001 COUNTY REFUSE                11,200 TO  
+                               EAST  205500  NRTH  231890                                                                              
+                               FULL MKT VAL  509,090                                                                                   
+ 
+     165.45-1100-9 
+                               16 ROCHELLE TERR                                                         ACCT: 018780  
+    165.45-1100-9         SK   411 APARTMENT                               COUNTY TAXABLE                     77,000  
+    PEMATA MGMT. LLC             MT VERNONCENTRAL                   23,300 CITY TAXABLE                       77,000  
+    145 MT. VERNON AVE, 1ST F  9                                           SCHOOL TAXABLE                     77,000  
+    MOUNT VERNON NY 10550      54 UNITS                             77,000 CS001 HUTCHINSON SEWE              77,000 TO C
+                               ACREAGE  0.58                               RF001 COUNTY REFUSE                77,000 TO  
+                               EAST  205620  NRTH  231650                                                                              
+                               DEED BK  52103  PG  3119                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  3,499,999                                                                                 
+     165.54-1121-25 *********************
+                               137 FIFTH AV ,N                                                          ACCT: 022680  
+    165.54-1121-25        SP   411 APARTMENT                               COUNTY TAXABLE                     30,000  
+    CASAL LLC                    MT VERNONCENTRAL                    4,000 CITY TAXABLE                       30,000  
+    186 STEVENS AVENUE         25                                          SCHOOL TAXABLE                     30,000  
+    MT VERNON NY 10550         24 UNITS                             30,000 CS001 HUTCHINSON SEWE              30,000 TO C
+                               ACREAGE  0.11                               RF001 COUNTY REFUSE                30,000 TO  
+                               EAST  205750  NRTH  231390                                                                              
+                               DEED BK  41050  PG  0314                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  1,363,636                                                                                 
+     165.54-1132-8 
+                               175 CRARY AV                                                             ACCT: 024950  
+    165.54-1132-8         UP   411 APARTMENT                               COUNTY TAXABLE                     85,000  
+    CRARY AVE LLC                MT VERNONCENTRAL                   15,000 CITY TAXABLE                       85,000  
+    C/O OFFICE                 8                                           SCHOOL TAXABLE                     85,000  
+    300 GRAMATAN AV            34 UNITS                             85,000 CS001 HUTCHINSON SEWE              85,000 TO C
+    MOUNT VERNON NY 10552      ACREAGE  0.43                               RF001 COUNTY REFUSE                85,000 TO  
+                               EAST  206000  NRTH  231580                                                                              
+                               DEED BK  40088  PG  0340                                                                                
+                               FULL MKT VAL  3,863,636                                                                                 
+     165.54-1132-9 
+                               173 CRARY AV                                                             ACCT: 024960  
+    165.54-1132-9         VI   411 APARTMENT                               COUNTY TAXABLE                     11,700  
+    BX PROPERTY HOLDINGS LLC     MT VERNONCENTRAL                    4,900 CITY TAXABLE                       11,700  
+    15 CUTTERMILL RD STE 245   9                                           SCHOOL TAXABLE                     11,700  
+    GREAT NECK NY 11021        4 UNITS                              11,700 CS001 HUTCHINSON SEWE              11,700 TO C
+                               ACREAGE  0.16                               RF001 COUNTY REFUSE                11,700 TO  
+                               EAST  206000  NRTH  231550                                                                              
+                               DEED BK  59058  PG  3115                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  531,818                                                                                   
+ 
+     165.55-1151-6 
+                               162 RICH AV                                                              ACCT: 026660  
+    165.55-1151-6         UD   411 APARTMENT                               COUNTY TAXABLE                     11,000  
+    NUNES, JAMIE                 MT VERNONCENTRAL                    3,300 CITY TAXABLE                       11,000  
+    162 RICH AVE               6                                           SCHOOL TAXABLE                     11,000  
+    MOUNT VERNON NY 10550      4 UNITS                              11,000 CS001 HUTCHINSON SEWE              11,000 TO C
+                               ACREAGE  0.14                               RF001 COUNTY REFUSE                11,000 TO  
+                               EAST  206310  NRTH  231510                                                                              
+                               DEED BK  12161  PG  278                                                                                 
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  499,999                                                                                   
+     165.55-1151-22 *********************
+                               121 ARCHER AV                                                            ACCT: 026820  
+    165.55-1151-22        SP   411 APARTMENT                               41854 STAR-RES                                    522
+    BALDEO, VIVALIN              MT VERNONCENTRAL                    4,300 COUNTY TAXABLE                     13,400  
+    BALDEO, JOSEPH             22                                          CITY TAXABLE                       13,400  
+    121 ARCHER AV              4 UNITS                              13,400 SCHOOL TAXABLE                     12,878  
+    MOUNT VERNON NY 10550      ACREAGE  0.19                               CS001 HUTCHINSON SEWE              13,400 TO C
+                               EAST  206280  NRTH  231370                  RF001 COUNTY REFUSE                13,400 TO  
+                               DEED BK  47103  PG  0030                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  609,090                                                                                   
+     165.56-2062-25 *********************
+                               165 SUMMIT AV                                                            ACCT: 036480  
+    165.56-2062-25        WK   411 APARTMENT                               COUNTY TAXABLE                     16,000  
+    VERNON MGT CO                MT VERNONCENTRAL                    7,100 CITY TAXABLE                       16,000  
+    P.O.BOX 188                25                                          SCHOOL TAXABLE                     16,000  
+    MOUNT VERNON NY 10552      4 UNITS                              16,000 CS001 HUTCHINSON SEWE              16,000 TO C
+                               ACREAGE  0.72                               RF001 COUNTY REFUSE                16,000 TO  
+                               EAST  206600  NRTH  231590                                                                              
+                               FULL MKT VAL  727,272                                                                                   
+     165.61-1076-33 *********************
+                               145 HIGH ST ,N                                                           ACCT: 012870  
+    165.61-1076-33        WH   411 APARTMENT                               COUNTY TAXABLE                     14,100  
+    RICHARDSON,R&P&M             MT VERNONCENTRAL                    3,000 CITY TAXABLE                       14,100  
+    MRS. P. RICHARDSON-HAGANS  33                                          SCHOOL TAXABLE                     14,100  
+    145 N. HIGH STREET         4 UNITS                              14,100 CS002 BRONX RIV. SEWE              14,100 TO C
+    MT.VERNON NY 10550         ACREAGE  0.11                               RF001 COUNTY REFUSE                14,100 TO  
+                               EAST  205220  NRTH  231280                                                                              
+                               FULL MKT VAL  640,909                                                                                   
+     165.61-1077-1 
+                               193 LINCOLN AV ,W                                                        ACCT: 012890  
+    165.61-1077-1         TJ   411 APARTMENT                               COUNTY TAXABLE                     12,000  
+    ZAMUDIO, FAURICIO            MT VERNONCENTRAL                    3,300 CITY TAXABLE                       12,000  
+    193 W LINCOLN AVE          1                                           SCHOOL TAXABLE                     12,000  
+    MOUNT VERNON NY 10550      4 UNITS                              12,000 CS002 BRONX RIV. SEWE              12,000 TO C
+                               ACREAGE  0.07                               RF001 COUNTY REFUSE                12,000 TO  
+                               EAST  205290  NRTH  231210                                                                              
+                               DEED BK  41129  PG  0030                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  545,454                                                                                   
+     165.61-1077-5 
+                               50 TENTH AV ,N                                                           ACCT: 012930  
+    165.61-1077-5         WH   411 APARTMENT                               COUNTY TAXABLE                     13,500  
+    LOUDEN, JOHN                 MT VERNONCENTRAL                    3,000 CITY TAXABLE                       13,500  
+    50-52 N 10TH AVE           5                                           SCHOOL TAXABLE                     13,500  
+    MOUNT VERNON NY 10550      4 UNITS                              13,500 CS001 HUTCHINSON SEWE              13,500 TO C
+                               ACREAGE  0.11                               RF001 COUNTY REFUSE                13,500 TO  
+                               EAST  205330  NRTH  231180                                                                              
+                               DEED BK  60031  PG  3067                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  613,636                                                                                   
+     165.61-1084-6 
+                               32 SEVENTH AV ,N                                                         ACCT: 014060  
+    165.61-1084-6         VT   411 APARTMENT                               COUNTY TAXABLE                     11,400  
+    BUTLER, THOMAS D.            MT VERNONCENTRAL                    3,000 CITY TAXABLE                       11,400  
+    32 NORTH SEVENTH AVENUE    6                                           SCHOOL TAXABLE                     11,400  
+    MOUNT VERNON NY 10550      4 UNITS                              11,400 CS001 HUTCHINSON SEWE              11,400 TO C
+                               ACREAGE  0.11                               RF001 COUNTY REFUSE                11,400 TO  
+                               EAST  205560  NRTH  231170                                                                              
+                               DEED BK  42109  PG  0318                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  518,181                                                                                   
+     165.81-4029-19 *********************
+                               494 THIRD ST ,E                                                          ACCT: 099490  
+    165.81-4029-19        AP   411 APARTMENT                               COUNTY TAXABLE                     14,000  
+    BLAKE, NOEL                  MT VERNONCENTRAL                    2,400 CITY TAXABLE                       14,000  
+    BLAKE, DAWN                19                                          SCHOOL TAXABLE                     14,000  
+    74 PARCOT AV               4 UNITS                              14,000 CS001 HUTCHINSON SEWE              14,000 TO C
+    NEW ROCHELLE NY 10801      ACREAGE  0.10                               RF001 COUNTY REFUSE                14,000 TO  
+                               EAST  207390  NRTH  230650                                                                              
+                               DEED BK  45235  PG  0403                                                                                
+                               BANK 345                                                                                                
+                               FULL MKT VAL  636,363                                                                                   
+ 
+     165.82-4029-31 *********************
+                               530 THIRD ST ,E                                                          ACCT: 099580  
+    165.82-4029-31        WP   411 APARTMENT                               COUNTY TAXABLE                     10,000  
+    530 EAST THIRD CORP.         MT VERNONCENTRAL                    2,000 CITY TAXABLE                       10,000  
+    C/O EMILIO DIMATTEO        31                                          SCHOOL TAXABLE                     10,000  
+    PO BOX 634                 4 UNITS                              10,000 CS001 HUTCHINSON SEWE              10,000 TO C
+    MOUNT VERNON NY 10552      ACREAGE  0.05                               RF001 COUNTY REFUSE                10,000 TO  
+                               EAST  207520  NRTH  230550                                                                              
+                               DEED BK  51130  PG  3020                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  454,545                                                                                   
+     165.82-4049-3 
+                               110 VERNON AV                                                            ACCT: 103690  
+    165.82-4049-3         XD   411 APARTMENT                               COUNTY TAXABLE                     17,000  
+    SIMMONDS, NORMAN             MT VERNONCENTRAL                    5,500 CITY TAXABLE                       17,000  
+    SIMMONDS, R. & D.          3                                           SCHOOL TAXABLE                     17,000  
+    4 KUCHLER DR               4 UNITS                              17,000 CS001 HUTCHINSON SEWE              17,000 TO C
+    LAGRANGEVILLE NY 12540     ACREAGE  0.27                               RF001 COUNTY REFUSE                17,000 TO  
+                               EAST  207560  NRTH  230430                                                                              
+                               DEED BK  46156  PG  0639                                                                                
+                               FULL MKT VAL  772,727                                                                                   
+     169.21-3018-29 *********************
+                               141 THIRTEENTH AV ,S                                                     ACCT: 060350  
+    169.21-3018-29        YL   411 APARTMENT                               COUNTY TAXABLE                     15,000  
+    FEFERKORN,SARA               MT VERNONCENTRAL                    2,500 CITY TAXABLE                       15,000  
+    1274 49TH ST. #14          29                                          SCHOOL TAXABLE                     15,000  
+    BROOKLYN NY 11219          4 UNITS                              15,000 CS001 HUTCHINSON SEWE              15,000 TO C
+                               ACREAGE  0.12                               RF001 COUNTY REFUSE                15,000 TO  
+                               EAST  205290  NRTH  230290                                                                              
+                               DEED BK  60160  PG  3466                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  681,818                                                                                   
+     169.21-3019-6 
+                               211 THIRTEENTH AV ,S                                                     ACCT: 060550  
+    169.21-3019-6         VM   411 APARTMENT                               COUNTY TAXABLE                          0  
+    R & G EQUITIES, LTD          MT VERNONCENTRAL                        0 CITY TAXABLE                            0  
+    215 SOUTH 13TH AVE         6                                           SCHOOL TAXABLE                          0  
+    MOUNT VERNON NY 10550      4 UNITS                                   0 CS001 HUTCHINSON SEWE                   0 TO C
+                               ACREAGE  0.09                               RF001 COUNTY REFUSE                     0 TO  
+                               EAST  205330  NRTH  230160                                                                              
+                               DEED BK  12072  PG  313                                                                                 
+                               FULL MKT VAL  0                                                                                         
+ 
+     169.21-3024-17 *********************
+                               160 TENTH AV ,S                                                          ACCT: 062010  
+    169.21-3024-17        UK   411 APARTMENT                               COUNTY TAXABLE                     11,000  
+    CRENSHAW, EDDIE JR           MT VERNONCENTRAL                    4,000 CITY TAXABLE                       11,000  
+    160 S 10TH AVE             17                                          SCHOOL TAXABLE                     11,000  
+    MOUNT VERNON NY 10550      4 UNITS                              11,000 CS001 HUTCHINSON SEWE              11,000 TO C
+                               ACREAGE  0.18                               RF001 COUNTY REFUSE                11,000 TO  
+                               EAST  205490  NRTH  230280                                                                              
+                               DEED BK  57069  PG  3320                                                                                
+                               BANK 7                                                                                                  
+                               FULL MKT VAL  499,999                                                                                   
+     169.22-3084-17 *********************
+                               252 FIFTH AV ,S                                                          ACCT: 076670  
+    169.22-3084-17        YI   411 APARTMENT                               COUNTY TAXABLE                     12,300  
+    RA MV PROPERTIES LLC         MT VERNONCENTRAL                    2,600 CITY TAXABLE                       12,300  
+    506 S 9TH AVE              17                                          SCHOOL TAXABLE                     12,300  
+    MOUNT VERNON NY 10550      4 UNITS                              12,300 CS001 HUTCHINSON SEWE              12,300 TO C
+                               ACREAGE  0.12                               RF001 COUNTY REFUSE                12,300 TO  
+                               EAST  205960  NRTH  230160                                                                              
+                               DEED BK  61116  PG  3264                                                                                
+                               FULL MKT VAL  559,090                                                                                   
+     169.23-3109-11 *********************
+                               242 THIRD AV ,S                                                          ACCT: 082990  
+    169.23-3109-11        TK   411 APARTMENT                               COUNTY TAXABLE                      8,500  
+    SOUTH THIRD AVE              MT VERNONCENTRAL                    2,000 CITY TAXABLE                        8,500  
+    APARTMENTS LLC             11                                          SCHOOL TAXABLE                      8,500  
+    48 W 1ST ST                4 UNITS                               8,500 CS001 HUTCHINSON SEWE               8,500 TO C
+    MOUNT VERNON NY 10550      ACREAGE  0.05                               RF001 COUNTY REFUSE                 8,500 TO  
+                               EAST  206100  NRTH  230270                                                                              
+                               DEED BK  59226  PG  3360                                                                                
+                               FULL MKT VAL  386,363                                                                                   
+     164.68-1073-25 *********************
+                               29 MAC QUESTEN PKY ,N                                                    ACCT: 011830  
+    164.68-1073-25        YC   411 APARTMENT                               33401 TAX LIEN FORCL     10,000     10,000
+    CITY OF MOUNT VERNON         MT VERNONCENTRAL                    3,500 COUNTY TAXABLE                          0  
+    1 ROOSEVELT SQ             25                                          CITY TAXABLE                            0  
+    MOUNT VERNON NY 10550      4 UNITS / 2 STORES                   10,000 SCHOOL TAXABLE                     10,000  
+                               ACREAGE  0.11                               CS002 BRONX RIV. SEWE              10,000 TO C
+                               EAST  204940  NRTH  231160                  RF001 COUNTY REFUSE                     0 TO  
+                               DEED BK  48338  PG  0347                           10,000  EX  
+                               FULL MKT VAL  454,545                                                                                   
+ 
+    
