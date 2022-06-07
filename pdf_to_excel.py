@@ -10,9 +10,11 @@ def vernon_ny_parser(pdf_file):
     """
     row = 2  # First row reserved for column_list
     address_abb = [" ST", " AVE", " PL", " AV", " PLACE", " AVENUE", " RD", " ROAD", " DR", " DRIVE", " COURT",
-                   " STREET", " PLAZA", " TERRACE", " LA", " LANE", " LN", " PKY", " PARKWAY", " PKWAY", " NY"]
+                   " STREET", " PLAZA", " TERRACE", " LA", " LANE", " LN", " PKY", " PARKWAY", " PKWAY", " PO BOX",
+                   " NY"]
     column_list = ["Tax Map Parcel ID", "Account Number", "Property Address", "Apartment", "Number of Units",
                    "Current Owners Name", "Current Owners Address", "Acerage", "Full Market Value"]
+    owner_ending_list = [", ", "LLC", "INC", "LTD", "CORP", "ASSOCIATION", "C/O"]
 
     wb = Workbook()
     ws = wb.active
@@ -50,7 +52,7 @@ def vernon_ny_parser(pdf_file):
                         text_line = text_line.split("   ")[1]
                         cell_ref.value = text_line
 
-                    elif ", " in text_line:  # Current Owners Name
+                    elif any(owner in text_line for owner in owner_ending_list):  # Current Owners Name
                         cell_ref = ws.cell(row=row, column=6)
                         if cell_ref.value:
                             cell_ref.value = (cell_ref.value + "/" + text_line)
